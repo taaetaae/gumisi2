@@ -1339,6 +1339,10 @@ footer .f_site .sitemap li:hover span {
     background-color: #0065b3;
 }
 
+footer .f_site .siteplus {
+    display: none;
+}
+
 
 .topbtn {
     width: 4rem;
