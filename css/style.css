@@ -986,6 +986,10 @@ header .ham {
     overflow: hidden;
 }
 
+.sec4 .sec4_box .lists figure {
+    border-radius: 20px;
+    overflow: hidden;
+}
 
 .sec4 .sec4_box .lists figure img {
     width: 100%;
